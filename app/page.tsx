@@ -20,10 +20,10 @@ const Home = () => {
   return (
     <CategoryContextProvider>
       <div className="md:text-7xl text-3xl text-center text-blue-500 m-5 font-black">
-        ビンジリスト
+      クナルさんの  ビンジリスト
       </div>
       <div className="text-lg text-center text-blue-500 m-5 font-light">
-        Binge List
+       Kunal's Binge List
       </div>
 
       <div className="bg-red-200">
